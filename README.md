@@ -1,4 +1,5 @@
-# Wildcards
-An extension version of a script from https://github.com/jtkelm2/stable-diffusion-webui-1/blob/main/scripts/wildcards.py
+# Tamecards
 
-Allows you to use `__name__` syntax in your prompt to get a random line from a file named `name.txt` in the wildcards directory.
+Like wildcards but not as wild.
+
+Allows you to use `___name___` syntax in your prompt to get the first line from a file named `name.txt` in the wildcards directory. The next time you will get the next line.
